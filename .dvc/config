@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-bucket
+['remote "dvc-bucket"']
+    url = s3://romain-dvc-sustain
