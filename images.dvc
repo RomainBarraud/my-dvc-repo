@@ -3,3 +3,10 @@ outs:
   size: 1123189
   nfiles: 8
   path: images
+md5: fc221c37c4b391d6e24308ff080d3950
+frozen: true
+deps:
+- path: ./images
+  repo:
+    url: git@github.com:RomainBarraud/my-dvc-repo.git
+    rev_lock: 1d4a118f349758b85285788f0b0bf50cbe5c6276
